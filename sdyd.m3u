@@ -29,69 +29,10 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-name="CCTV15" group-title="央视台",CCTV-15
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-name="CCTV16" group-title="央视台",CCTV-16
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000364/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-name="CCTV17" group-title="央视台",CCTV-17
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
 
-#EXTM3U name="4K频道"
-#EXTINF:-1 tvg-logo="CCTV-4K超清" tvg-name="CCTV-4K超清" group-title="4K频道",CCTV-4K超清
-http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8
-
-#EXTINF:-1 tvg-logo="SiTV欢笑剧场" tvg-name="SiTV欢笑剧场" group-title="4K频道",SiTV欢笑剧场
-http://ott.js.chinamobile.com/TVOD/3/224/3221227715/index.m3u8
-
-
-
-#EXTM3U name="山东地方"
-#EXTINF:-1 tvg-logo="烟台新闻" tvg-name="烟台新闻" group-title="省内频道",烟台新闻
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000280/index.m3u8
-#EXTINF:-1 tvg-logo="烟台公共" tvg-name="烟台公共" group-title="省内频道",烟台公共
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000281/index.m3u8
-#EXTINF:-1 tvg-logo="烟台影视" tvg-name="烟台影视" group-title="省内频道",烟台影视
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000283/index.m3u8
-#EXTINF:-1 tvg-logo="烟台经济科技" tvg-name="烟台经济科技" group-title="省内频道",烟台经济科技
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000282/index.m3u8
-#EXTINF:-1 tvg-logo="青岛-1" tvg-name="青岛-1" group-title="省内频道",青岛-1
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000500/index.m3u8
-#EXTINF:-1 tvg-logo="青岛-2" tvg-name="青岛-2" group-title="省内频道",青岛-2
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000501/index.m3u8
-#EXTINF:-1 tvg-logo="青岛-3" tvg-name="青岛-3" group-title="省内频道",青岛-3
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000502/index.m3u8
-#EXTINF:-1 tvg-logo="青岛-4" tvg-name="青岛-4" group-title="省内频道",青岛-4
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000503/index.m3u8
-#EXTINF:-1 tvg-logo="青岛-5" tvg-name="青岛-5" group-title="省内频道",青岛-5
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000504/index.m3u8
-#EXTINF:-1 tvg-logo="青岛-6" tvg-name="青岛-6" group-title="省内频道",青岛-6
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000505/index.m3u8
-#EXTINF:-1 tvg-logo="威海综合" tvg-name="威海综合" group-title="省内频道",威海综合
-http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000274/index.m3u8
-#EXTINF:-1 tvg-logo="济南新闻" tvg-name="济南新闻" group-title="省内频道",济南新闻
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" tvg-name="山东齐鲁" group-title="省内频道",山东齐鲁
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_gonggong.png" tvg-name="山东公共" group-title="省内频道",山东公共
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" tvg-name="山东体育" group-title="省内频道",山东体育
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_yingshi.png" tvg-name="山东影视" group-title="省内频道",山东影视
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" tvg-name="山东生活" group-title="省内频道",山东生活
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" tvg-name="山东综艺" group-title="省内频道",山东综艺
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" tvg-name="山东农科" group-title="省内频道",山东农科
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" tvg-name="山东少儿" group-title="省内频道",山东少儿
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
-#EXTINF:-1 tvg-logo="山东教育" tvg-name="山东教育" group-title="省内频道",山东教育
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
-
 #EXTM3U name="卫视"
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="凤凰资讯" group-title="卫视频道",凤凰资讯
-http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="凤凰中文" group-title="卫视频道",凤凰中文
-http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-name="山东卫视" group-title="卫视频道",山东卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-name="北京卫视" group-title="卫视频道",北京卫视
@@ -155,5 +96,46 @@ http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000044/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimenggu.png" tvg-name="内蒙古卫视" group-title="卫视频道",内蒙古卫视
 http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000040/index.m3u8
 
-
-
+#EXTM3U name="山东地方"
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png" tvg-name="山东齐鲁" group-title="省内频道",山东齐鲁
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_gonggong.png" tvg-name="山东公共" group-title="省内频道",山东公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png" tvg-name="山东体育" group-title="省内频道",山东体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_yingshi.png" tvg-name="山东影视" group-title="省内频道",山东影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png" tvg-name="山东生活" group-title="省内频道",山东生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png" tvg-name="山东综艺" group-title="省内频道",山东综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png" tvg-name="山东农科" group-title="省内频道",山东农科
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png" tvg-name="山东少儿" group-title="省内频道",山东少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
+#EXTINF:-1 tvg-logo="山东教育" tvg-name="山东教育" group-title="省内频道",山东教育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 tvg-logo="烟台新闻" tvg-name="烟台新闻" group-title="省内频道",烟台新闻
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000280/index.m3u8
+#EXTINF:-1 tvg-logo="烟台公共" tvg-name="烟台公共" group-title="省内频道",烟台公共
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000281/index.m3u8
+#EXTINF:-1 tvg-logo="烟台影视" tvg-name="烟台影视" group-title="省内频道",烟台影视
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000283/index.m3u8
+#EXTINF:-1 tvg-logo="烟台经济科技" tvg-name="烟台经济科技" group-title="省内频道",烟台经济科技
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000282/index.m3u8
+#EXTINF:-1 tvg-logo="青岛-1" tvg-name="青岛-1" group-title="省内频道",青岛-1
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000500/index.m3u8
+#EXTINF:-1 tvg-logo="青岛-2" tvg-name="青岛-2" group-title="省内频道",青岛-2
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000501/index.m3u8
+#EXTINF:-1 tvg-logo="青岛-3" tvg-name="青岛-3" group-title="省内频道",青岛-3
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000502/index.m3u8
+#EXTINF:-1 tvg-logo="青岛-4" tvg-name="青岛-4" group-title="省内频道",青岛-4
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000503/index.m3u8
+#EXTINF:-1 tvg-logo="青岛-5" tvg-name="青岛-5" group-title="省内频道",青岛-5
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000504/index.m3u8
+#EXTINF:-1 tvg-logo="青岛-6" tvg-name="青岛-6" group-title="省内频道",青岛-6
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000505/index.m3u8
+#EXTINF:-1 tvg-logo="威海综合" tvg-name="威海综合" group-title="省内频道",威海综合
+http://ucdn-zte.sd.chinamobile.com:8089/shandong_cabletv.live.zte.com////CHANNEL00000274/index.m3u8
+#EXTINF:-1 tvg-logo="济南新闻" tvg-name="济南新闻" group-title="省内频道",济南新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
